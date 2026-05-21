@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuzoVi"><img src="https://img.shields.io/github/followers/yuzoVi?label=Follow&style=social" alt="GitHub followers"/></a>
+  <a href="https://github.com/yuzoVi">
+    <img src="https://img.shields.io/github/followers/yuzoVi?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
 </p>
 
 ---
@@ -21,37 +23,39 @@ I work with the Salesforce platform — from configuration and automation to cus
 
 ### Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Salesforce-Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-Service_Cloud_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-AI_Specialist_(Agentforce)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<p align="center">
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" height="100" alt="Salesforce Associate"/>
+  <img src="https://img.shields.io/badge/Salesforce-AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Salesforce AI Associate"/>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="100" alt="Salesforce Administrator"/>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="100" alt="Salesforce Platform App Builder"/>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" height="100" alt="Salesforce Agentforce Specialist"/>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Service-Cloud-Consultant.png" height="100" alt="Salesforce Service Cloud Consultant"/>
 </p>
 
 ### Projects
 
 | Repo | Description |
 |------|-------------|
-| [lwcsi01](https://github.com/yuzoVi/lwcsi01) | LWC components collection |
+| [lwcsi01](https://github.com/yuzoVi/lwcsi01) | Selectable item list component for Vlocity (Salesforce Industries) — forked and extended |
 
 ---
 
 ## 🎮 Hobby: Game Development
 
-I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — each one a chance to learn something new about game design and pick up new skills along the way. All playable in the browser.
+I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — each one is a chance to learn something new about game design. All playable in the browser.
 
 | # | Game | Description | Play |
 |---|------|-------------|------|
 | 01 | Snake | Classic snake on a 20×20 grid | [▶ Play](https://yuzovi.itch.io/snake) |
-| 02 | Flappy Bird | Pipe-dodging clone | [▶ Play](https://yuzovi.itch.io/flappybirdclone) |
+| 02 | Flappy Bird | Pipe-dodging clone with obstacles | [▶ Play](https://yuzovi.itch.io/flappybirdclone) |
 | 03 | Bomberman | Grid-based arena with bombs and chain reactions | [▶ Play](https://yuzovi.itch.io/bomberman) |
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuzoVi&show_icons=true&theme=tokyonight&hide_border=true" alt="Victor's GitHub stats"/>
+  <a href="https://yuzovi.itch.io/snake">
+    <img src="https://img.shields.io/badge/🐍%20Play%20Snake%20on%20itch.io-fa5c5c?style=for-the-badge&logoColor=white" alt="Play Snake"/>
+  </a>
 </p>
 
 <picture>
