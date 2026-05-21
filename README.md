@@ -22,12 +22,12 @@
 ### Certifications
 
 <p align="center">
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" height="100" alt="Salesforce Associate"/>
+  <img src="assets/associate.png" height="100" alt="Salesforce Associate"/>
   <img src="assets/ai-associate.png" height="100" alt="Salesforce AI Associate"/>
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="100" alt="Salesforce Administrator"/>
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="100" alt="Salesforce Platform App Builder"/>
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" height="100" alt="Salesforce Agentforce Specialist"/>
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Service-Cloud-Consultant.png" height="100" alt="Salesforce Service Cloud Consultant"/>
+  <img src="assets/admin.png" height="100" alt="Salesforce Administrator"/>
+  <img src="assets/app-builder.png" height="100" alt="Salesforce Platform App Builder"/>
+  <img src="assets/agentforce-specialist.png" height="100" alt="Salesforce Agentforce Specialist"/>
+  <img src="assets/service-cloud-consultant.png" height="100" alt="Salesforce Service Cloud Consultant"/>
 </p>
 
 ### Projects
