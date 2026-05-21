@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  🤖 Currently learning and building with <strong>AI agentic workflows</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/yuzoVi"><img src="https://img.shields.io/github/followers/yuzoVi?label=Follow&style=social" alt="GitHub followers"/></a>
 </p>
 
@@ -49,3 +53,9 @@ I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — ea
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuzoVi&show_icons=true&theme=tokyonight&hide_border=true" alt="Victor's GitHub stats"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuzoVi/yuzoVi/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuzoVi/yuzoVi/output/snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/yuzoVi/yuzoVi/output/snake.svg"/>
+</picture>
