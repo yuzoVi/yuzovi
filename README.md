@@ -22,12 +22,12 @@
 ### Certifications
 
 <p align="center">
-  <img src="assets/associate.png" height="100" alt="Salesforce Associate"/>
-  <img src="assets/ai-associate.png" height="100" alt="Salesforce AI Associate"/>
-  <img src="assets/admin.png" height="100" alt="Salesforce Administrator"/>
-  <img src="assets/app-builder.png" height="100" alt="Salesforce Platform App Builder"/>
-  <img src="assets/agentforce-specialist.png" height="100" alt="Salesforce Agentforce Specialist"/>
-  <img src="assets/service-cloud-consultant.png" height="100" alt="Salesforce Service Cloud Consultant"/>
+  <img src="Assets/associate.png" height="100" alt="Salesforce Associate"/>
+  <img src="Assets/ai-associate.png" height="100" alt="Salesforce AI Associate"/>
+  <img src="Assets/admin.png" height="100" alt="Salesforce Administrator"/>
+  <img src="Assets/app-builder.png" height="100" alt="Salesforce Platform App Builder"/>
+  <img src="Assets/agentforce-specialist.png" height="100" alt="Salesforce Agentforce Specialist"/>
+  <img src="Assets/service-cloud-consultant.png" height="100" alt="Salesforce Service Cloud Consultant"/>
 </p>
 
 ### Projects
