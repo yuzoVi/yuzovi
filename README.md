@@ -47,3 +47,4 @@ I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — ea
 | 01 | Snake | Classic snake on a 20×20 grid | [▶ Play](https://yuzovi.itch.io/snake) |
 | 02 | Flappy Bird | Pipe-dodging clone with obstacles | [▶ Play](https://yuzovi.itch.io/flappybirdclone) |
 | 03 | Bomberman | Grid-based arena with bombs and chain reactions | [▶ Play](https://yuzovi.itch.io/bomberman) |
+| 04 | Cosmic Pop | Toddler educational game — letters, numbers, colors, shapes in PT/EN/ES | [▶ Play](https://yuzovi.itch.io/cosmic-pop) |
