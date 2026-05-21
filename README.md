@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Victor 👋</h1>
 
 <p align="center">
-  Salesforce Developer focused on building great experiences on the platform.<br/>
+  Salesforce Consultant focused on building great experiences on the platform.<br/>
   When I'm not working on CRM solutions, I make small games as a hobby.
 </p>
 
@@ -19,13 +19,11 @@
 
 ## ☁️ Salesforce
 
-I work with the Salesforce platform — from configuration and automation to custom development with Apex and LWC.
-
 ### Certifications
 
 <p align="center">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" height="100" alt="Salesforce Associate"/>
-  <img src="https://img.shields.io/badge/Salesforce-AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="28" alt="Salesforce AI Associate"/>
+  <img src="https://images.credly.com/images/d0ed49db-8702-4cb1-91ea-957f351e1e67/dfa2b6ba-2319-4acf-8ffe-e64d5aab9461.png" height="100" alt="Salesforce AI Associate"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="100" alt="Salesforce Administrator"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="100" alt="Salesforce Platform App Builder"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" height="100" alt="Salesforce Agentforce Specialist"/>
@@ -49,17 +47,3 @@ I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — ea
 | 01 | Snake | Classic snake on a 20×20 grid | [▶ Play](https://yuzovi.itch.io/snake) |
 | 02 | Flappy Bird | Pipe-dodging clone with obstacles | [▶ Play](https://yuzovi.itch.io/flappybirdclone) |
 | 03 | Bomberman | Grid-based arena with bombs and chain reactions | [▶ Play](https://yuzovi.itch.io/bomberman) |
-
----
-
-<p align="center">
-  <a href="https://yuzovi.itch.io/snake">
-    <img src="https://img.shields.io/badge/🐍%20Play%20Snake%20on%20itch.io-fa5c5c?style=for-the-badge&logoColor=white" alt="Play Snake"/>
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuzoVi/yuzoVi/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuzoVi/yuzoVi/output/snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/yuzoVi/yuzoVi/output/snake.svg"/>
-</picture>
