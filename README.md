@@ -48,3 +48,4 @@ I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — ea
 | 02 | Flappy Bird | Pipe-dodging clone with obstacles | [▶ Play](https://yuzovi.itch.io/flappybirdclone) |
 | 03 | Bomberman | Grid-based arena with bombs and chain reactions | [▶ Play](https://yuzovi.itch.io/bomberman) |
 | 04 | Cosmic Pop | Toddler educational game — letters, numbers, colors, shapes in PT/EN/ES | [▶ Play](https://yuzovi.itch.io/cosmic-pop) |
+| 05 | Orbit Bounce | Space-themed aim-and-bounce puzzle across 40 sectors | [Source](https://github.com/yuzoVi/orbit-bounce) |
