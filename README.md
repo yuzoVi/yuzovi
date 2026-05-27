@@ -42,10 +42,10 @@
 
 I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — each one is a chance to learn something new about game design. All playable in the browser.
 
-| # | Game | Description | Play |
-|---|------|-------------|------|
-| 01 | Snake | Classic snake on a 20×20 grid | [▶ Play](https://yuzovi.itch.io/snake) |
-| 02 | Flappy Bird | Pipe-dodging clone with obstacles | [▶ Play](https://yuzovi.itch.io/flappybirdclone) |
-| 03 | Bomberman | Grid-based arena with bombs and chain reactions | [▶ Play](https://yuzovi.itch.io/bomberman) |
-| 04 | Cosmic Pop | Toddler educational game — letters, numbers, colors, shapes in PT/EN/ES | [▶ Play](https://yuzovi.itch.io/cosmic-pop) |
-| 05 | Orbit Bounce | Space-themed aim-and-bounce puzzle across 40 sectors | [Source](https://github.com/yuzoVi/orbit-bounce) |
+| # | Game | Description | Learned | Play |
+|---|------|-------------|---------|------|
+| 01 | Snake | Classic snake on a 20×20 grid | First Godot 4 / GDScript project; classic game loop | [▶ Play](https://yuzovi.itch.io/snake) |
+| 02 | Flappy Bird | Pipe-dodging clone with obstacles | Gravity physics + procedural pipe spawning | [▶ Play](https://yuzovi.itch.io/flappybirdclone) |
+| 03 | Bomberman | Grid-based arena with bombs and chain reactions | Grid state, bomb timers and chain reactions | [▶ Play](https://yuzovi.itch.io/bomberman) |
+| 04 | Cosmic Pop | Toddler educational game — letters, numbers, colors, shapes in PT/EN/ES | Multi-language UI (PT/EN/ES), kid-friendly UX | [▶ Play](https://yuzovi.itch.io/cosmic-pop) |
+| 05 | Orbit Bounce | Space-themed aim-and-bounce puzzle across 40 sectors | Custom Godot MCP server integration; 40 levels as a scale test | [Source](https://github.com/yuzoVi/orbit-bounce) |
