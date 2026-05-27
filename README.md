@@ -40,7 +40,7 @@
 
 ## 🎮 Hobby: Game Development
 
-I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — each one is a chance to learn something new about game design. All playable in the browser.
+I build small games with [Godot 4.6](https://godotengine.org/) as a hobby — each one is a chance to learn something new about game design while practicing agentic AI workflows (Claude Code, MCP servers, AI-paired iteration). Most are playable in the browser.
 
 | # | Game | Description | Learned | Play |
 |---|------|-------------|---------|------|
